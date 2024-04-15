@@ -1,0 +1,2 @@
+This is content for the new demofile
+It contains multiple lines
